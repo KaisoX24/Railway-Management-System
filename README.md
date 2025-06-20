@@ -29,8 +29,8 @@ A GUI-based Railway Management System built using Python and CustomTkinter. This
 ```bash
 RailwayManagementSystem/
 ├── main.py                # The main GUI application (your current file)
-├──sql_password.py         # Stores users Mysql password
-├──database_config.py      # Establizes the database connection
+├── sql_password.py         # Stores users Mysql password
+├── database_config.py      # Establizes the database connection
 ├── user_management.py     # Handles user registration and login
 ├── ticket_management.py   # Handles Ticket Management
 ├── README.md              # This file
