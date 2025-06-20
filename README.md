@@ -61,3 +61,8 @@ venv\Scripts\activate # For MAC: source venv/bin/activate
   python main.py
   ```
 ---
+## 🧑‍💻 Author
+Developed by Pramit Acharjya
+---
+## 🪪 License
+MIT License — free to use, modify, and distribute.
