@@ -26,9 +26,21 @@ A GUI-based Railway Management System built using Python and CustomTkinter. This
 
 ---
 
-## 📦 Requirements
+## 📦 Installation
 
-Install the required dependencies using pip:
+### 1. Clone the Repository
 
 ```bash
-pip install customtkinter
+git clone https://github.com/KaisoX24/Railway-Management-System.git
+cd Railway-Management-System
+```
+### 2. Install Dependencies
+It's recommended to use a virtual environment:
+
+```bash
+python -m venv venv
+venv\Scripts\activate # For MAC: source venv/bin/activate
+```
+- Install the required packages:
+  ```bash
+  pip install customtkinter uuid mysql-connector-python
