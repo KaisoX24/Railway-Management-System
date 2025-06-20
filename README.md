@@ -55,5 +55,9 @@ venv\Scripts\activate # For MAC: source venv/bin/activate
 - Install the required packages:
   ```bash
   pip install customtkinter uuid mysql-connector-python
----
 
+### 3. Run the App
+  ```bash
+  python main.py
+  ```
+---
