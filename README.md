@@ -25,6 +25,13 @@ A GUI-based Railway Management System built using Python and CustomTkinter. This
 | In-Memory Dictionary | Store ticket data during runtime (non-persistent) |
 
 ---
+## 📁 Project Structure
+```bash
+RailwayManagementSystem/
+├── main.py                # The main GUI application (your current file)
+├── user_management.py     # Handles user registration and login
+├── README.md              # This file
+
 
 ## 📦 Installation
 
