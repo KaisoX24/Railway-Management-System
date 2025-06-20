@@ -1,1 +1,1 @@
-DB_password='KaisoX24'
+DB_password='Your DataBase Password'
